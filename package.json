@@ -18,6 +18,14 @@
     "email": "tiwarivarun819.vt33.vt@gmail.com",
     "url": "https://varuntiwari.xyz"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/varunKT001/express-ts-decorators.git"
+  },
+  "bugs": {
+    "url": "https://github.com/varunKT001/express-ts-decorators.git/issues"
+  },
+  "homepage": "https://github.com/varunKT001/express-ts-decorators.git#readme",
   "directories": {
     "lib": "lib"
   },
