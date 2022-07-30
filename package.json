@@ -1,6 +1,6 @@
 {
   "name": "@varuntiwari/express-ts-decorators",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "description": "Typescript decorators for express",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",

@@ -4,9 +4,9 @@ import { AppRouter } from '../AppRouter';
 import { Methods } from './Methods';
 import { MetadataKeys } from './MetadataKeys';
 
-function bodyValidators(keys: string): RequestHandler {
+function bodyValidators(keys: string[]): RequestHandler {
   return function (req: Request, res: Response, next: NextFunction) {
-    if (!req.body) {
+    if (keys.length !== 0 && !req.body) {
       res.status(400).json({ success: false, message: 'Invalid request' });
       return;
     }
