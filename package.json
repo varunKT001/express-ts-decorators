@@ -1,5 +1,5 @@
 {
-  "name": "express-ts-decorators",
+  "name": "@varuntiwari/express-ts-decorators",
   "version": "1.0.0",
   "description": "Typescript decorators for express",
   "main": "lib/index.js",
