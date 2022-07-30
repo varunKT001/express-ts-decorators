@@ -1,5 +1,5 @@
-import { RequestHandler } from 'express';
 import 'reflect-metadata';
+import { RequestHandler } from 'express';
 import { MetadataKeys } from './MetadataKeys';
 import { Methods } from './Methods';
 
