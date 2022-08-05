@@ -1,10 +1,12 @@
 # ⌨ Express-Typescript Decorators
 
-Simple Typescript decorators for Express
+Simple Typescript decorators for Express.
 
 ## 📈 Installation
 
-`npm i @varuntiwari/express-ts-decorators`
+```sh
+npm i @varuntiwari/express-ts-decorators
+```
 
 ## 🧪 Usage
 
