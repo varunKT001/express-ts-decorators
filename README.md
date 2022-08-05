@@ -100,6 +100,34 @@ app.use(ErrorMiddleware);
 
 - Start the server and you are ready to go 🚀
 
+## ✨ Features
+
+- [x] Decorators for all HTTP request methods like `get`, `post`, etc.
+- [x] Provides request body validators.
+- [x] Provides a single pre-configured router.
+- [x] Integrated Error Handling, which means that no `try-catch` blocks are required inside controller methods.
+
+## ⚙ Tools and Technologies used
+
+1. [Typescript](https://www.typescriptlang.org/)
+
+## 🛠 Local Installation and setup
+
+1. Clone the repo to your local machine.
+2. Install the required dependency for server using :
+
+   ```javascript
+   npm install
+   ```
+
+## 🏎 Creating production built
+
+1. Build the package using
+
+   ```javascript
+   npm run build
+   ```
+
 ## 😎 Team Members
 
 <table>
